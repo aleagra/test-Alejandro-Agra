@@ -1,0 +1,1 @@
+Pude hacer la conexion a la base de datos con sus funcionalidades correctamente , el unico problema es que lo hice en un solo end point ya que todavia no se usar el jsonwebtoken para hacer la autenticacion 

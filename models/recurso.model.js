@@ -8,7 +8,6 @@ const UsersSchema = new Schema({
   },
   idRecurso: {
     type: String,
-    unique: true,
   },
   status: {
     type: Boolean,
