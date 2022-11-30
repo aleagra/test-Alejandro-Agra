@@ -4,7 +4,6 @@ const {
   getRecurso,
   createRecurso,
 } = require("../controllers/recursoController");
-// const { ValidateUser } = require("../models/user.model");
 
 routerrecuro.get("/recurso/get", getRecurso);
 routerrecuro.post("/recurso/post", createRecurso);
